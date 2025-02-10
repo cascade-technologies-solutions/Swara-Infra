@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Swara-Infra/static/css/main.94aff6f1.css",
+    "main.js": "/Swara-Infra/static/js/main.479d3e78.js",
+    "static/js/453.0aefb1aa.chunk.js": "/Swara-Infra/static/js/453.0aefb1aa.chunk.js",
+    "static/media/mission.jpg": "/Swara-Infra/static/media/mission.87b6083ff3199f2ff435.jpg",
+    "static/media/featuring.jpg": "/Swara-Infra/static/media/featuring.a3b9a1333aac25a9b471.jpg",
+    "static/media/vision.jpg": "/Swara-Infra/static/media/vision.02ea449980cd367b9901.jpg",
+    "static/media/Footerbg.jpg": "/Swara-Infra/static/media/Footerbg.3fb3e3dad1d2cb8fbc2b.jpg",
+    "static/media/whatsappicon.png": "/Swara-Infra/static/media/whatsappicon.7f7ef9cde8a3f6ef7a55.png",
+    "static/media/bootstrap-icons.woff?": "/Swara-Infra/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/Swara-Infra/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/Progressbg.jpg": "/Swara-Infra/static/media/Progressbg.aa33ea6749976ef64b14.jpg",
+    "static/media/Awesomebg.jpg": "/Swara-Infra/static/media/Awesomebg.5c28565bed5590c7fff2.jpg",
+    "static/media/header-bg.png": "/Swara-Infra/static/media/header-bg.f01a7755d5f2d08cba33.png",
+    "static/media/Cardsliderbg.png": "/Swara-Infra/static/media/Cardsliderbg.9f950f86e28e520dd9e5.png",
+    "static/media/Testimonialbg.jpg": "/Swara-Infra/static/media/Testimonialbg.8bd99a9929acb44f299d.jpg",
+    "static/media/Contactbg.png": "/Swara-Infra/static/media/Contactbg.a8ed67782ad352ca0284.png",
+    "static/media/Teambg.svg": "/Swara-Infra/static/media/Teambg.db25fbe959d3491ea56f.svg",
+    "static/media/slick.svg": "/Swara-Infra/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Swara-Infra/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Swara-Infra/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Swara-Infra/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Swara-Infra/index.html",
+    "static/media/Pricingbg.svg": "/Swara-Infra/static/media/Pricingbg.4da88fc88e616b3da18c.svg",
+    "main.94aff6f1.css.map": "/Swara-Infra/static/css/main.94aff6f1.css.map",
+    "main.479d3e78.js.map": "/Swara-Infra/static/js/main.479d3e78.js.map",
+    "453.0aefb1aa.chunk.js.map": "/Swara-Infra/static/js/453.0aefb1aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94aff6f1.css",
+    "static/js/main.479d3e78.js"
+  ]
+}
